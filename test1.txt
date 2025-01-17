@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 i dont know
 
 dude thats freaks me out
 
+=======
+wooo wooo woo why are u empty dude
+>>>>>>> test_git
